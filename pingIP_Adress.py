@@ -19,7 +19,9 @@ os.system("ping {}" .format(IP_die_gepingt_werde_soll))
 print("-" *60)
 
 ################################# INFORMATION #################################
+print("#" *60)
 print("Coded by mxrvin#5452 \nOwner von M-Development \nM-Development Discord: https://discord.gg/JUuxCYJA5W \nM-Development Github: https://github.com/xXM-DevelopmentXx")
+print("#" *60)
 
 #### Wartet auf eingabe einer taste um das Programm zu schließen ####
 input("Drücke eine Taste um das Programm zu schließen!")
